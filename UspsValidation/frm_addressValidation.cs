@@ -48,7 +48,7 @@ namespace UspsValidation
 
         private void frm_addressValidation_Load(object sender, EventArgs e)
         {
-            txtUserId.Text = "669EMAGI1041";
+            
         }
 
         private void btnValidate_Click(object sender, EventArgs e)
