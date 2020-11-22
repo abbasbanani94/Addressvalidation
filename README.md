@@ -18,3 +18,4 @@ How it works :
 - click on validate button.
 - the form will run the API request for each address and create a new file in the same location of the original.
 
+* There are two files with names of test file.csv and test fileVaildated.csv to see how they look like
