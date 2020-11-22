@@ -1,0 +1,9 @@
+c:\users\abbas\documents\visual studio 2015\Projects\UspsValidation\UspsValidation\bin\Debug\UspsValidation.exe.config
+c:\users\abbas\documents\visual studio 2015\Projects\UspsValidation\UspsValidation\bin\Debug\UspsValidation.exe
+c:\users\abbas\documents\visual studio 2015\Projects\UspsValidation\UspsValidation\bin\Debug\UspsValidation.pdb
+c:\users\abbas\documents\visual studio 2015\Projects\UspsValidation\UspsValidation\obj\Debug\UspsValidation.csprojResolveAssemblyReference.cache
+c:\users\abbas\documents\visual studio 2015\Projects\UspsValidation\UspsValidation\obj\Debug\UspsValidation.frm_addressValidation.resources
+c:\users\abbas\documents\visual studio 2015\Projects\UspsValidation\UspsValidation\obj\Debug\UspsValidation.Properties.Resources.resources
+c:\users\abbas\documents\visual studio 2015\Projects\UspsValidation\UspsValidation\obj\Debug\UspsValidation.csproj.GenerateResource.Cache
+c:\users\abbas\documents\visual studio 2015\Projects\UspsValidation\UspsValidation\obj\Debug\UspsValidation.exe
+c:\users\abbas\documents\visual studio 2015\Projects\UspsValidation\UspsValidation\obj\Debug\UspsValidation.pdb
